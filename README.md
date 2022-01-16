@@ -7,7 +7,7 @@
   2. Muhammad Haikal bin Razali        1921805
   3. Muhammad Irfan Danial bin Baharim 1927331
 
-### b) Title of the project:
+### b) Title of the project: Zouk Cafe Website
 
 ### c) Introduction
     Zouk has been in a Cafe in IIUM for a few years already. Yet, the cafe is always full of customers, especially at peak hour. The arabic based food pulls so many customers throughout the day. So our group will make a website to help the cafe to organise customers more efficiently. Otherwise, the customers need to make a very long line in front of the cafe.
