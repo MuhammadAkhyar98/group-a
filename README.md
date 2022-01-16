@@ -31,21 +31,16 @@ To make sure that their customers will not wait too long in front of the cafe on
   - about.blade.php
   - products.blade.php
   - contact.blade.php
-
-  Controllers:
-  - Controller.php
-  - 
-  
-  Routes:
-  - web.php
-  
-  Models:
-  - User.php
+  10 Controllers
+  5 Routes
+  5 Models (Employee, Customer, Menu, Order, Payment)
   
   ER Diagram:
-  
+  ![WebProject](https://user-images.githubusercontent.com/61967561/149664322-b893cfc8-3d50-470f-939f-171bb50264f4.png)
+
 
 ### g) Sequence diagram
 
 ### h) References
 -https://restaurant.eatapp.co/blog/online-restaurant-reservation-systems
+-https://www.inettutor.com/diagrams/online-food-ordering-system-er-diagram/
