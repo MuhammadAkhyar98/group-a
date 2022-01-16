@@ -25,10 +25,10 @@ To make sure that their customers will not wait too long in front of the cafe on
 
 ### f) Views, controllers, routes, models + ERD
   
-  -5 views
-  -10 Controllers
-  -5 Routes
-  -5 Models (Employee, Customer, Menu, Order, Payment)
+  - 5 views
+  - 10 Controllers
+  - 5 Routes
+  - 5 Models (Employee, Customer, Menu, Order, Payment)
   
   ER Diagram:
   ![WebProject (1)](https://user-images.githubusercontent.com/61967561/149665012-7b098c4b-95fe-4ba9-ba90-f3ae4d288083.png)
