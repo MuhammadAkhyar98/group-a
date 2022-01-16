@@ -36,6 +36,7 @@ To make sure that their customers will not wait too long in front of the cafe on
 
 
 ### g) Sequence diagram
+![Restaurant reservation system](https://user-images.githubusercontent.com/95629830/149666727-c0353321-906d-436d-800d-2ff65c35b45c.png)
 
 ### h) References
 - https://restaurant.eatapp.co/blog/online-restaurant-reservation-systems
