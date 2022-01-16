@@ -25,17 +25,9 @@ To make sure that their customers will not wait too long in front of the cafe on
 
 ### f) Views, controllers, routes, models + ERD
   
-  Views:
-  - login.blade.php
-  - home.blade.php
-  - about.blade.php
-  - products.blade.php
-  - contact.blade.php
-  
+  5 views
   10 Controllers
-  
   5 Routes
-  
   5 Models (Employee, Customer, Menu, Order, Payment)
   
   ER Diagram:
