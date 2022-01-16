@@ -36,5 +36,5 @@ To make sure that their customers will not wait too long in front of the cafe on
 ### g) Sequence diagram
 
 ### h) References
--https://restaurant.eatapp.co/blog/online-restaurant-reservation-systems
--https://www.inettutor.com/diagrams/online-food-ordering-system-er-diagram/
+- https://restaurant.eatapp.co/blog/online-restaurant-reservation-systems
+- https://www.inettutor.com/diagrams/online-food-ordering-system-er-diagram/
