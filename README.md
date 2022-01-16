@@ -1,20 +1,22 @@
 # group-a
+## INFO 3305 Section 3
 ## Food and beverages
 
-a) Group members:
+### a) Group members:
   1. Muhammad Akhyar bin Al-Khairi     1715231
   2. Muhammad Haikal bin Razali        1921805
   3. Muhammad Irfan Danial bin Baharim 1927331
 
-b) Title of the project:
+### b) Title of the project:
 
-c) Introduction
+### c) Introduction
 
-d) Objective
+### d) Objective
 
-e) Features and functionalities
+### e) Features and functionalities
 
-f) Views, controllers, routes, models + ERD
+### f) Views, controllers, routes, models + ERD
+  
   Views:
   - login.blade.php
   - home.blade.php
@@ -31,6 +33,6 @@ f) Views, controllers, routes, models + ERD
   Models:
   -
 
-g) Sequence diagram
+### g) Sequence diagram
 
-h) References
+### h) References
