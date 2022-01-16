@@ -15,6 +15,21 @@ d) Objective
 e) Features and functionalities
 
 f) Views, controllers, routes, models + ERD
+  Views:
+  - login.blade.php
+  - home.blade.php
+  - about.blade.php
+  - products.blade.php
+  - contact.blade.php
+
+  Controllers:
+  -
+  
+  Routes:
+  -
+  
+  Models:
+  -
 
 g) Sequence diagram
 
