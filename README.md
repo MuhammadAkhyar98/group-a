@@ -25,13 +25,17 @@
   - contact.blade.php
 
   Controllers:
-  -
+  - Controller.php
+  - 
   
   Routes:
-  -
+  - web.php
   
   Models:
-  -
+  - User.php
+  
+  ER Diagram:
+  
 
 ### g) Sequence diagram
 
