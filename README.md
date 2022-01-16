@@ -20,10 +20,10 @@ To make sure that their customers will not wait too long in front of the cafe on
 
 ### f) Views, controllers, routes, models + ERD
   
-  - 5 views (Login, Home, Menu, Order, Book/Payment)
+  - 5 views (Login, Home, Menu, Order, Payment-Book/Take away)
   - 10 Controllers
   - 5 Routes
-  - 5 Models (Employee, Customer, Menu, Order, Book/Payment)
+  - 5 Models (Employee, Customer, Menu, Order, Payment-Book/Take away)
   
   ER Diagram:
  ![Zouk](https://user-images.githubusercontent.com/61967561/149665441-48fe5ab6-a80b-424d-8bf6-83cd2d19b358.png)
