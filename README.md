@@ -29,6 +29,8 @@ To make sure that their customers will not wait too long in front of the cafe on
  ![Zouk](https://user-images.githubusercontent.com/61967561/149665441-48fe5ab6-a80b-424d-8bf6-83cd2d19b358.png)
 
 ### g) Sequence diagram
+ ![Restaurant reservation system](https://user-images.githubusercontent.com/95629830/150737305-e34bb7ba-ef2d-4f5b-9788-2608a44bf0c4.png)
+
 
 ### h) References
 - https://restaurant.eatapp.co/blog/online-restaurant-reservation-systems
